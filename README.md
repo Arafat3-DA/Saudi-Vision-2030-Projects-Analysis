@@ -24,4 +24,10 @@ This project demonstrates the power of advanced data visualization techniques an
 Contributions are welcome! Feel free to fork this repository and submit pull requests. For feedback or feature requests, please open an issue or connect with me on LinkedIn.
 
 ## 📧 Contact
-For any queries or collaboration opportunities, reach out to me at arafatsiddiqui3@gmail.com or connect with me on LinkedIn.
+For queries or collaboration opportunities:
+
+📬 Email: arafatsiddiqui3@gmail.com
+
+🔗 LinkedIn: <a href="https://www.linkedin.com/in/arafat-siddiqui/">Arafat Siddiqui<a/>
+
+🌐 Portfolio: https://arafatsiddiqui.carrd.co/
