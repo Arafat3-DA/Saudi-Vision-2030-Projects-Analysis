@@ -1,27 +1,64 @@
-# Saudi Vision 2030 Projects Analysis Dashboard
+# Saudi Vision 2030 Projects Analysis Dashboard – Power BI
 
-## Project Overview:
+## Project Overview
 
-I am thrilled to present the "𝐒𝐚𝐮𝐝𝐢 𝐕𝐢𝐬𝐢𝐨𝐧 𝟐𝟎𝟑𝟎 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝", a dynamic Power BI dashboard designed to provide an in-depth overview of key projects contributing to Saudi Vision 2030. This dashboard tracks 📍 regional progress, analyzes 📊 key metrics, and encapsulates efforts to build a brighter future for Saudi Arabia.
+Saudi Vision 2030 Projects Dashboard is a powerful and interactive Power BI solution developed to offer a comprehensive analysis of 759 major development projects aligned with Saudi Arabia’s Vision 2030 initiative. This dashboard is designed to provide stakeholders with a clear and data-driven understanding of the Kingdom’s strategic growth efforts across multiple sectors.
 
-It is an extensive and interactive dashboard that thoroughly analyzes 759 major projects across various sectors in Saudi Arabia. The dashboard has been designed to provide a holistic view of the country’s development efforts, making it an invaluable tool for stakeholders seeking detailed insights into 📈 project performance, 💰 budget allocation, and 🏗️ completion status.
+By tracking regional progress, analyzing key performance metrics, and visualizing sector-wise budget allocations and project statuses, the dashboard delivers a holistic overview of the nation’s infrastructure and development landscape. It serves as a valuable tool for policymakers, analysts, and decision-makers seeking to monitor progress, identify bottlenecks, and make informed decisions that contribute to the long-term goals of Saudi Vision 2030.
 
-#### At the core of the dashboard, users can explore comprehensive statistics on key metrics such as:
+## 🎯 Objective
 
-🏁 319 completed projects
-🔄 97 ongoing projects
-🕒 293 delayed projects
+The Saudi Vision 2030 Projects Analysis Dashboard is a dynamic and interactive Power BI solution developed to track and visualize the progress of major development initiatives across the Kingdom of Saudi Arabia. The dashboard provides a strategic overview of projects that align with the goals of Vision 2030, offering insights into regional development, sector performance, and investment distribution.
 
-The dashboard also includes a sector-wise breakdown, with the infrastructure sector leading in budget allocation, receiving financial investments exceeding $𝟏𝟗.𝟖 𝐭𝐫𝐢𝐥𝐥𝐢𝐨𝐧. Additionally, the Total Area Covered by Projects feature provides a detailed view of the vast geographic reach 🌍 of these initiatives, while the Project Summary offers a visual representation of top projects by type, helping to identify significant development trends across sectors such as transport 🚚, healthcare 🏥, and real estate 🏢.
+## 📁 Project Structure
 
-Furthermore, the dashboard offers a detailed Project Details Table 📝, which consolidates essential information such as the 🗓️ start and end dates, project status, area covered, and budget for each project, allowing for in-depth analysis and tracking of individual initiatives. 📅 Performance trends by month and year are also visualized, allowing stakeholders to quickly identify patterns and potential areas of concern 📊.
+1. The dashboard is divided into multiple focused sections to support both high-level summaries and detailed project tracking:
+2. Key Metrics Overview – Summarizes overall project status and completion rates.
+3. Sector Analysis – Visualizes budget allocation and progress by industry.
+4. Geographic Distribution – Displays area covered and regional focus of initiatives.
+5. Project Summary View – Highlights top projects by type and investment.
+6. Project Details Table – Enables in-depth review of each project’s timeline, status, and budget.
+7. Time-Series Trends – Analyzes performance patterns by month and year.
 
-## Conclusion
+## 🔑 Key Features and KPIs
 
-This project demonstrates the power of advanced data visualization techniques and reflects my continued focus on creating interactive, insightful, and user-friendly tools that aid decision-making at all levels. The dashboard is a testament to the growing importance of data analytics 📊 in shaping Saudi Arabia’s infrastructure and development strategies 🏗️.
+#### Core Metrics: 
+
+1. Total Projects Analyzed: 759
+2. Completed Projects: 319
+3. Ongoing Projects: 97
+4. Delayed Projects: 293
+
+#### Sector-Wise Insights:
+
+Top Sector by Budget: Infrastructure, with over $19.8 trillion in financial investment.
+Other Key Sectors: Transport, Healthcare, Real Estate, Energy, and Tourism.
+
+#### Geographic and Area Insights:
+
+Total Area Covered by Projects – Highlights spatial reach across provinces.
+Regional Progress Visualization – Showcases development distribution by location.
+
+#### Project Summary and Detail:
+
+Project Summary by Type – Categorizes top projects to identify sector trends.
+Detailed Table View – Includes project name, start and end dates, budget, status, and area for precise filtering and exploration.
+
+#### Performance Trends:
+
+Monthly and Yearly Trend Visuals – Enables tracking of development activity over time to uncover seasonality, bottlenecks, or acceleration in project execution.
+
+## 📈 Impact and Value
+
+This dashboard serves as a strategic tool for:
+
+1. Government agencies and stakeholders tracking Vision 2030 progress.
+2. Consultants and analysts monitoring national investment and infrastructure.
+3. Decision-makers seeking to identify areas for optimization or acceleration.
+4. The report demonstrates the power of data analytics in enhancing transparency, accountability, and strategic planning at a national scale.
 
 ## 🤝 Contributions and Feedback
-Contributions are welcome! Feel free to fork this repository and submit pull requests. For feedback or feature requests, please open an issue or connect with me on LinkedIn.
+Contributions are welcome! If you'd like to enhance or extend this project, feel free to fork the repository and submit a pull request. For suggestions, issues, or feedback, please open an issue or connect via LinkedIn.
 
 ## 📧 Contact
 For queries or collaboration opportunities:
