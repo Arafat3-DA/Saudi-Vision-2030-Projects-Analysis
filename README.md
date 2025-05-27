@@ -67,4 +67,4 @@ For queries or collaboration opportunities:
 
 🔗 LinkedIn: <a href="https://www.linkedin.com/in/arafat-siddiqui/">Arafat Siddiqui<a/>
 
-🌐 Portfolio: https://arafatsiddiqui.carrd.co/
+🌐 Portfolio: https://arafat3-portfolio.netlify.app/
